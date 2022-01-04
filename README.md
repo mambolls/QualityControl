@@ -1,3 +1,1 @@
-# QualityControl
-
-数据质控
+质控
